@@ -78,11 +78,13 @@ span{
 }
 
 span:hover{
+      cursor:pointer;
       color:rgb(188, 46, 188);
 }
 
 .icon{
      justify-self:end;
+     cursor:pointer;
 }
 
 .answer{
